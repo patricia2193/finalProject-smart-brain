@@ -1,6 +1,9 @@
 {
   "name": "smartbrain",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.x"
+  },
   "dependencies": {
     "clarifai": "^2.9.1",
     "knex": "^0.21.1",
